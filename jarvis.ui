@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>UYKjarvis</class>
+ <widget class="QWidget" name="UYKjarvis">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1459</width>
+    <height>692</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../ullhas 3.png</normaloff>../ullhas 3.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(28, 28, 30);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-230</x>
+     <y>-20</y>
+     <width>1701</width>
+     <height>741</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>a16e0126849add7e1303205ef99cc9fd.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>401</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>T8bahf.gif</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>1090</x>
+     <y>90</y>
+     <width>291</width>
+     <height>481</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>f889323d87ae92dbd5da3b1193708dc3.gif</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>1220</x>
+     <y>610</y>
+     <width>91</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(57, 146, 255);
+font: 75 20pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>START</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
